@@ -1,0 +1,2 @@
+export GOBIN=${PWD}/bin/
+go install github.com/ervanhohoho/project-inventory/app
